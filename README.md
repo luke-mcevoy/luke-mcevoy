@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Luke 👋
 
 - 🔭 I’m currently working on Mobile Development.
 - 🌱 I’m currently learning Android + Flutter: (Kotlin + Dart).
