@@ -8,3 +8,4 @@
 - 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/luke-mcevoy/)
 - 😄  Pronouns: he/him.
 - ⚡  Fun fact: I've been to 22 countries.
+- https://math.dartmouth.edu/~doyle/docs/self/self.pdf
